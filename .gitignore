@@ -1,4 +1,6 @@
 /node_modules/
 /public/build/
+/example-used/my-app/node_modules/
+/example-used/my-app/public/build/
 
 .DS_Store
